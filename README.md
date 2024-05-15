@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning about myself
+- 👯 I’m looking to collaborate on sharing genetics
+- 🤔 I’m looking for help with you
+- 💬 Ask me about anything
+- 📫 How to reach me: Slide in
+- 😄 Pronouns: rizzler/rizzgod
+- ⚡ Fun fact: Show Stealer
 <!--
 **xignotic/xignotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
